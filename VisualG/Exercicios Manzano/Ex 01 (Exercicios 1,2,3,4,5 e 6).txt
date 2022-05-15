@@ -1,0 +1,55 @@
+1- I inteiros, R para reais, L para lógicos e C para literais:
+a. ( C) 0 
+b. (L ) Verdadeiro 
+c. ( C) "Falso"
+d. ( R) 5.7 
+e. ( R) 45.8976 
+f. ( I) - 678
+g. ( C) "cinco" 
+h. ( C) "443"
+i. ( L) Falso
+j. ( C) "0" 
+k. ( C) "Casa 8" 
+l. ( I) 34
+
+2- Assinale com um X os nomes de variáveis válidos:
+a. (X ) abc 
+b. ( X) Verdadeiro 
+c. ( ) 21brasil
+d. ( ) guarda-chuva 
+e. ( ) etc. 
+f. (X ) zero
+g. ( X) guarda_chuva 
+h. ( ) leia 
+i. ( ) nome*usuario
+j. ( ) #fone 
+k. ( ) Casa 8
+ l. (X ) endereco
+m. ( ) "cinco"
+n. (X ) falso 
+o. ( ) _falso
+
+3- 5) No seguinte programa em Portugol existe algum erro? Onde?
+algoritmo "Teste"
+var
+Maria : caracter
+idade : inteiro
+letras : caracter
+Maria : real
+inicio
+idade ¬ 23
+idade ¬ 678
+idade ¬ letra
+letras ¬ "ABC"
+letras ¬ 2
+fimalgoritmo
+
+As variaveis entao repetidas e invertidas então  e estão recebendo valores diferentes. 
+
+4- Qual a diferença existente nas seguintes atribuições?
+a) Letra ¬ "A" b) Letra ¬ A
+Nome ¬ "Joao" Nome ¬ Joao
+
+A-No exemplo (A), a variavel Letra recebe o caracater  "A",pois esta localizado dentro de aspas duplas.
+B-No exemplo (B), a variavel Letra recebe uma Variavel A, e a Variavel Nome recebe a variavel Joao a qual n é conhecida.
+
